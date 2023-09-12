@@ -14,13 +14,6 @@
 
 - [Autores](#nome-alunos)
 - [Descrição do projeto](#introdução-do-projeto)
-
-  A pizza express está passando por uma crise após o seu concorrente desenvolver um um programa que garante entrega em 30 min desde a hora que pede até o pedido chegar na casa do cliente. 
-A pizza express garante a entrega em 1h, com isso teve uma queda de 30% nos seus clientes. 
-Atualmente os computadores usados por eles armazenam as operações e as funções usuais do negócio, mas não auxiliam no processo de entregas. 
-A pizzaria express depende e um projeto feito pelo Eloon muske, que está responsável por desenvolver uma aplicação de software para identificar a localização das lojas de pizza pizza express mais próxima do cliente e para criar o sistema de software necessário para opera-las. 
-A equipe precisa de uma opção para entregar os pedidos em menos de 30 minutos. Sua ideia foi, montar lojas de pizza express e focar apenas  nos pedidos que são para entregar, sem ter espaço para o varejo. 
-Localizando a loja mais próxima do cliente, ela irá receber ordem através de uma central , processará e entregará o pedido dentro de 10 ou 15 minutos da entrada do pedido.
 - [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
 - [Descrição dos casos de uso](#descrição-das-funcões)
@@ -45,6 +38,12 @@ Localizando a loja mais próxima do cliente, ela irá receber ordem através de 
 
 
 # Descrição do projeto
+<h4> A pizza express está passando por uma crise após o seu concorrente desenvolver um um programa que garante entrega em 30 min desde a hora que pede até o pedido chegar na casa do cliente. 
+A pizza express garante a entrega em 1h, com isso teve uma queda de 30% nos seus clientes. 
+Atualmente os computadores usados por eles armazenam as operações e as funções usuais do negócio, mas não auxiliam no processo de entregas. 
+A pizzaria express depende e um projeto feito pelo Eloon muske, que está responsável por desenvolver uma aplicação de software para identificar a localização das lojas de pizza pizza express mais próxima do cliente e para criar o sistema de software necessário para opera-las. 
+A equipe precisa de uma opção para entregar os pedidos em menos de 30 minutos. Sua ideia foi, montar lojas de pizza express e focar apenas  nos pedidos que são para entregar, sem ter espaço para o varejo. 
+Localizando a loja mais próxima do cliente, ela irá receber ordem através de uma central , processará e entregará o pedido dentro de 10 ou 15 minutos da entrada do pedido.</h4>
 
 *&lt;Introdução do projeto&gt;*
 
