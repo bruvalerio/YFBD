@@ -48,6 +48,8 @@ Localizando a loja mais próxima do cliente, ela irá receber ordem através de 
 *&lt;Introdução do projeto&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
+<h4> Funcionais: O sistema encontrará a pizzaria mais próxima do cliente
+O pedido chegará mais rápido</h4>
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de casos de uso
