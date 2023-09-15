@@ -38,19 +38,76 @@
 
 
 # Descrição do projeto
-<h4> A pizza express está passando por uma crise após o seu concorrente desenvolver um um programa que garante entrega em 30 min desde a hora que pede até o pedido chegar na casa do cliente. 
+<p> A pizza express está passando por uma crise após o seu concorrente desenvolver um um programa que garante entrega em 30 min desde a hora que pede até o pedido chegar na casa do cliente. 
 A pizza express garante a entrega em 1h, com isso teve uma queda de 30% nos seus clientes. 
 Atualmente os computadores usados por eles armazenam as operações e as funções usuais do negócio, mas não auxiliam no processo de entregas. 
 A pizzaria express depende e um projeto feito pelo Eloon muske, que está responsável por desenvolver uma aplicação de software para identificar a localização das lojas de pizza pizza express mais próxima do cliente e para criar o sistema de software necessário para opera-las. 
 A equipe precisa de uma opção para entregar os pedidos em menos de 30 minutos. Sua ideia foi, montar lojas de pizza express e focar apenas  nos pedidos que são para entregar, sem ter espaço para o varejo. 
-Localizando a loja mais próxima do cliente, ela irá receber ordem através de uma central , processará e entregará o pedido dentro de 10 ou 15 minutos da entrada do pedido.</h4>
+Localizando a loja mais próxima do cliente, ela irá receber ordem através de uma central , processará e entregará o pedido dentro de 10 ou 15 minutos da entrada do pedido.</p>
 
-*&lt;Introdução do projeto&gt;*
+
 
 # Análise de requisitos funcionais e não-funcionais
-<h4> Funcionais: O sistema encontrará a pizzaria mais próxima do cliente
-O pedido chegará mais rápido</h4>
-*&lt;Descrição dos requisitos&gt;*
+<p> Requisitos Funcionais:
+
+1- Sistema de Localização de Lojas:
+
+- O sistema deve ser capaz de identificar a localização do cliente   com precisão.
+- Deve ser possível localizar a loja de pizza express mais próxima com base na localização do cliente.
+- O sistema deve mostrar as opções de lojas disponíveis para o cliente.
+
+2- Sistema de Pedido:
+
+- Os clientes devem ser capazes de fazer pedidos online ou por telefone.
+- As informações do pedido (itens, quantidade, endereço de entrega) devem ser registradas no sistema.
+
+3- Central de Pedidos:
+
+- Deve existir uma central de pedidos para receber, processar e encaminhar os pedidos às lojas correspondentes.
+- A central deve ser capaz de priorizar os pedidos com base na localização das lojas e no horário de entrega desejado pelo cliente.
+- Deve ser possível monitorar o status de todos os pedidos em tempo real.
+
+4- Tempo de Entrega:
+
+- O sistema deve calcular o tempo estimado de entrega com base na localização do cliente, na loja escolhida e na carga atual de pedidos.
+- Os pedidos devem ser entregues em 10 ou 15 minutos a partir da entrada do pedido, dependendo da capacidade da loja e da distância do cliente.
+
+
+Requisitos Não Funcionais:
+
+1- Desempenho:
+
+- O sistema deve ser capaz de processar pedidos rapidamente, minimizando atrasos.
+- O tempo de resposta para consultas de localização e pedidos deve ser baixo.
+
+2- Confiabilidade:
+
+- O sistema deve ser altamente confiável, minimizando falhas e interrupções no serviço.
+- Deve haver um plano de contingência para lidar com problemas técnicos.
+
+3- Segurança:
+
+- Os dados dos clientes, incluindo informações pessoais e de pagamento, devem ser protegidos contra acesso não autorizado.
+- O sistema deve garantir que os pedidos sejam entregues apenas ao cliente correto.
+
+4- Integração com GPS e Mapas:
+
+- O sistema deve integrar-se a serviços de GPS e mapas para obter informações de localização precisas.
+
+5- Compatibilidade de Plataforma:
+
+- O sistema deve ser compatível com dispositivos móveis e navegadores da web para permitir que os clientes façam pedidos de várias plataformas.
+
+6- Legislação e Regulamentação:
+
+O sistema deve estar em conformidade com regulamentações locais de segurança alimentar, privacidade de dados e direitos do consumidor.
+
+7- Feedback dos Clientes:
+
+Deve haver um mecanismo para coletar feedback dos clientes sobre a qualidade do serviço e a precisão das entregas.
+
+</p>
+
 
 # Diagrama de casos de uso
 
