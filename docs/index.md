@@ -100,11 +100,11 @@ Requisitos Não Funcionais:
 
 6- Legislação e Regulamentação:
 
-O sistema deve estar em conformidade com regulamentações locais de segurança alimentar, privacidade de dados e direitos do consumidor.
+- O sistema deve estar em conformidade com regulamentações locais de segurança alimentar, privacidade de dados e direitos do consumidor.
 
 7- Feedback dos Clientes:
 
-Deve haver um mecanismo para coletar feedback dos clientes sobre a qualidade do serviço e a precisão das entregas.
+- Deve haver um mecanismo para coletar feedback dos clientes sobre a qualidade do serviço e a precisão das entregas.
 
 </p>
 
