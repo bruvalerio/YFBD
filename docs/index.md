@@ -111,7 +111,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![9ED68614-FFDA-4132-9A96-066B5624C21D](https://github.com/bruvalerio/YFBD/assets/144183243/c6006dbe-87c0-4e4e-aedd-3d4b0dbaa949)
+
 
 # Descrição dos casos de uso
 
