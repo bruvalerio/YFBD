@@ -112,7 +112,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![DiagramSequencia](https://github.com/bruvalerio/YFBD/assets/142839473/39e8dbf0-112e-4868-8b55-92a25ea1a08e)
+
 
 # Diagrama de classes
 
