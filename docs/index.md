@@ -110,6 +110,7 @@ Requisitos Não Funcionais:
 ![4100418f-15d3-4fb8-8456-771a7a8b0500](https://github.com/bruvalerio/YFBD/assets/142839473/743cd2ec-eb71-44f6-a87d-5e4e3a3f7b24)
 ![266bde17-be0b-4d46-b520-c25d58048008](https://github.com/bruvalerio/YFBD/assets/142839473/23d90a23-64c6-4644-8bd3-9a02122be9b5)
 ![c9c9e70f-3319-4bd4-ab7e-e2a185ab1570](https://github.com/bruvalerio/YFBD/assets/142839473/2a3414fd-bd93-4256-8d18-3ad49a882574)
+![Captura de tela 2023-09-26 202053](https://github.com/bruvalerio/YFBD/assets/142839473/7c77b5a7-c0f2-4c9e-9263-239cb11d3b71)
 ![fdbe22ab-2357-4ce4-b734-9097e8b2fd1a](https://github.com/bruvalerio/YFBD/assets/142839473/1063ba18-ca01-488e-85fc-09fa2beec159)
 
 
