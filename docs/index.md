@@ -107,6 +107,9 @@ Requisitos Não Funcionais:
 
 
 # Descrição dos casos de uso
+
+![UC06](https://github.com/bruvalerio/YFBD/assets/142839473/d4b37b32-06e3-449d-a132-60ecff687166)
+<br>
 ![4100418f-15d3-4fb8-8456-771a7a8b0500](https://github.com/bruvalerio/YFBD/assets/142839473/743cd2ec-eb71-44f6-a87d-5e4e3a3f7b24)
 <br>
 ![266bde17-be0b-4d46-b520-c25d58048008](https://github.com/bruvalerio/YFBD/assets/142839473/23d90a23-64c6-4644-8bd3-9a02122be9b5)
