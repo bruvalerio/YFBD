@@ -145,7 +145,80 @@ Requisitos Não Funcionais:
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Infraestrutura Proposta para a Arquitetura do Projeto da Pizza Express:
+
+A arquitetura da infraestrutura para o projeto da Pizza Express será projetada para otimizar o processo de entrega, garantindo eficiência, escalabilidade e tempo de resposta rápido. Aqui está uma descrição da infraestrutura escolhida:
+
+<h5> Servidores em Nuvem:</h5>
+
+
+Utilização de serviços de computação em nuvem, como AWS, Azure ou Google Cloud, para garantir escalabilidade e flexibilidade.
+Configuração de instâncias dedicadas para diferentes partes do sistema, como servidores de aplicativos, bancos de dados e serviços de geolocalização.
+
+<h5> Banco de Dados: </h5>
+
+
+Implementação de um banco de dados centralizado para armazenar informações críticas, como dados do cliente, menu, status do pedido e informações da loja.
+Uso de um banco de dados relacional para garantir consistência e integridade dos dados.
+
+
+<h5> Sistema de Geolocalização:</h5>
+
+
+Integração com serviços de geolocalização, como Google Maps API, para identificar a localização precisa dos clientes e das lojas.
+Armazenamento eficiente de dados de localização para consulta rápida e precisa.
+
+<h5>Aplicação de Software:</h5>
+
+Desenvolvimento de uma aplicação web e móvel para clientes fazerem pedidos, utilizando frameworks modernos como React ou Angular para interfaces responsivas.
+Implementação de APIs para comunicação eficiente entre a aplicação e os serviços backend.
+
+<h5>Central de Pedidos:</h5>
+
+Configuração de uma central de pedidos baseada em microserviços para processar e encaminhar pedidos para as lojas mais próximas.
+Uso de filas de mensagens para garantir a entrega ordenada e rápida das ordens.
+
+<h5>Rede de Lojas Express:</h5>
+
+Estabelecimento de lojas de pizza express focadas apenas em pedidos para entrega, sem espaço para o varejo.
+Equipamento nas lojas para processamento rápido dos pedidos, incluindo impressoras para recibos e etiquetas de entrega.
+
+<h5>Comunicação entre Lojas e Central:</h5>
+
+Implementação de uma comunicação segura entre as lojas e a central de pedidos por meio de protocolos criptografados.
+Uso de APIs RESTful para troca eficiente de dados.
+
+<h5>Monitoramento e Análise:</h5>
+
+Implementação de ferramentas de monitoramento em tempo real para acompanhar o status dos pedidos, desempenho das lojas e tempo de entrega.
+Uso de ferramentas analíticas para identificar padrões de pedidos e otimizar a distribuição.
+
+<h4>Requisitos Não Funcionais Considerados na Infraestrutura:</h4>
+
+
+<h5>Desempenho:</h5>
+
+Configuração de servidores e banco de dados otimizados para garantir tempos de resposta rápidos.
+Uso de caching para acelerar operações frequentes.
+
+<h5>Confiabilidade:</h5>
+
+Configuração de backup regular e redundância para garantir a recuperação em caso de falhas.
+Implementação de protocolos de recuperação de falhas para manter a continuidade do serviço.
+
+<h5>Segurança:</h5>
+
+Utilização de práticas de segurança padrão, como criptografia SSL para comunicação e armazenamento seguro de dados sensíveis.
+Implementação de controles de acesso para garantir que apenas usuários autorizados tenham acesso aos sistemas.
+
+<h5>Escalabilidade:</h5>
+
+Arquitetura escalável para lidar com o aumento da carga durante períodos de pico.
+Uso de balanceamento de carga para distribuir eficientemente as requisições entre os servidores.
+
+<h5>Integração com Serviços Externos:</h5>
+
+Integração contínua com serviços externos, como GPS, mapas e serviços de pagamento, para fornecer uma experiência de usuário completa.
 
 # Diagrama de implantação
 
