@@ -128,8 +128,6 @@ Requisitos Não Funcionais:
 <br>
 
 
-
-
 # Diagrama de sequencia
 
 ![DiagramSequencia](https://github.com/bruvalerio/YFBD/assets/142839473/39e8dbf0-112e-4868-8b55-92a25ea1a08e)
@@ -137,7 +135,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/bruvalerio/YFBD/assets/142839473/adee94e0-f448-4dc1-903e-1da54d466a82)
+
 
 # Diagrama de Componentes
 
