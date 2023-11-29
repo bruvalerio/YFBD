@@ -140,7 +140,8 @@ Requisitos Não Funcionais:
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/bruvalerio/YFBD/assets/142839473/45207a0d-a158-4d1c-b962-e5c4f8fea055)
+
 
 # Decisões de arquitetura
 
