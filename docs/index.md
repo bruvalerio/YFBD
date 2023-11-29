@@ -146,7 +146,7 @@ Requisitos Não Funcionais:
 
 Infraestrutura Proposta para a Arquitetura do Projeto da Pizza Express:
 
-A arquitetura da infraestrutura para o projeto da Pizza Express será projetada para otimizar o processo de entrega, garantindo eficiência, escalabilidade e tempo de resposta rápido. Aqui está uma descrição da infraestrutura escolhida:
+A arquitetura da infraestrutura para o projeto da Pizza Express será projetada para otimizar o processo de entrega, garantindo eficiência, escalabilidade e tempo de resposta rápido.
 
 <h5> Servidores em Nuvem:</h5>
 
